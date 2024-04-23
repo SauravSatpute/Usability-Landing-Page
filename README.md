@@ -21,4 +21,4 @@ Usabilty Landing Page
 
 Insert gif or link to demo
 
-![](https://github.com/Usability-Landing-Page/demo.gif)
+![Link](https://github.com/Usability-Landing-Page/demo.gif)
